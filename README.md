@@ -52,13 +52,13 @@ END
 
 ## 📈 Key Visuals
 - **Average Days Open by Department**
-Offers insights into how long requisitions remain open within each department, helping spot potential process delays.
+offers insights into how long requisitions remain open within each department, helping spot potential process delays.
 - **SLA Compliance Rate Gauge**
-Displays the percentage of requisitions closed within SLA by each recruiter to highlight adherence and areas for improvement.
+displays the percentage of requisitions closed within SLA by each recruiter to highlight adherence and areas for improvement.
 - **Open Requisitions Table with Aging Bucket**
-Presents the current breakdown of requisition statuses (Open, Filled, Cancelled), giving a snapshot of hiring pipeline activity.
+presents the current breakdown of requisition statuses (Open, Filled, Cancelled), giving a snapshot of hiring pipeline activity.
 - **Top 10 Longest Open Requisitions**
-Highlights the requisitions that have been open the longest (filtered to only those still open), helping prioritize follow-ups on overdue roles.
+highlights the requisitions that have been open the longest (filtered to only those still open), helping prioritize follow-ups on overdue roles.
 
 ## 📂 File
 - `job_requisition_sla_dashboard.csv` – sample dataset with 100 requisition records
